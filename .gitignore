@@ -62,6 +62,7 @@ typings/
 
 .DS_STORE
 esdata/
+/notes.md
 
 .idea/
 
@@ -128,4 +129,3 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-/notes.md
